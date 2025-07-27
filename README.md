@@ -65,17 +65,17 @@ Or open the .ipynb file in Jupyter and run all cells.
 
 **📸 Demo**
 
-### 🧑‍🍳 User Input
-![User Input](demo/User%20Input.png)
+### 🧑‍🍳 User Input  
+![User Input](DEMO/User%20Input.png)
 
-### 🍽️ Dish Image
-![Dish Image](demo/Dish%20Image.png)
+### 🍽️ Dish Image  
+![Dish Image](DEMO/Dish%20Image.png)
 
-### 🧠 Instructions
-![Instructions](demo/Instructions.png)
+### 🧠 Instructions  
+![Instructions](DEMO/Instructions.png)
 
-### 🔉 Audio & Similar Recipes
-![Audio and Similar Recipes](demo/Audio%20&%20similar%20Recipes.png)
+### 🔉 Audio & Similar Recipes  
+![Audio and Similar Recipes](DEMO/Audio%20%26%20similar%20Recipes.png)
 
-### 🎬 YouTube Video
-![Video Image](demo/Video%20Image.png)
+### 🎬 YouTube Video  
+![YouTube Video](DEMO/Video%20Image.png)
