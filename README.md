@@ -3,19 +3,15 @@
 ChefBot is a Python-based AI application that generates delicious recipes based on the ingredients you provide. Whether you're in the kitchen or just curious, ChefBot helps you whip up ideas in seconds.
 It is built using Python, Gradio, and Spoonacular API. It helps users discover recipes, explore similar dishes, fetch trending YouTube videos for cooking tutorials, and even listen to the recipe via speech synthesis.
 
-
 ---
 
-Technologies Used
-Python
+**Technologies Used**
 
-Gradio
-
-gTTS (Google Text-to-Speech)
-
-Spoonacular API
-
-YouTube Data API (optional placeholder used in UI)
+1. Python
+2. Gradio
+3. gTTS (Google Text-to-Speech)
+4. Spoonacular API
+5. YouTube Data API (optional placeholder used in UI)
 
 ---
 
@@ -31,7 +27,7 @@ YouTube Data API (optional placeholder used in UI)
 
 ---
 
- Installation
+**Installation**
 Clone the repository:
 
 bash
@@ -54,7 +50,7 @@ api_key = "your_spoonacular_api_key"
 
 ---
 
-▶️ How to Run
+**▶️ How to Run**
 Run the notebook or launch the Gradio app:
 
 bash
@@ -67,10 +63,19 @@ Or open the .ipynb file in Jupyter and run all cells.
 
 .
 
-📸 Demo
+**📸 Demo**
 
-![Step 1](readme/User Input.png)
-![Step 2](readme/Instructions.png)
-![Step 3](readme/Dish Image.png)
-![Step 4](readme/Video Image.png)
-![Final Output](readme/Audio & similar Recipes.png)
+### 🧑‍🍳 User Input
+![User Input](demo/User%20Input.png)
+
+### 🍽️ Dish Image
+![Dish Image](demo/Dish%20Image.png)
+
+### 🧠 Instructions
+![Instructions](demo/Instructions.png)
+
+### 🔉 Audio & Similar Recipes
+![Audio and Similar Recipes](demo/Audio%20&%20similar%20Recipes.png)
+
+### 🎬 YouTube Video
+![Video Image](demo/Video%20Image.png)
