@@ -1,6 +1,21 @@
 # ChefBot – AI-Powered Recipe Generator 🍲🤖
 
 ChefBot is a Python-based AI application that generates delicious recipes based on the ingredients you provide. Whether you're in the kitchen or just curious, ChefBot helps you whip up ideas in seconds.
+It is built using Python, Gradio, and Spoonacular API. It helps users discover recipes, explore similar dishes, fetch trending YouTube videos for cooking tutorials, and even listen to the recipe via speech synthesis.
+
+
+---
+
+Technologies Used
+Python
+
+Gradio
+
+gTTS (Google Text-to-Speech)
+
+Spoonacular API
+
+YouTube Data API (optional placeholder used in UI)
 
 ---
 
@@ -16,16 +31,42 @@ ChefBot is a Python-based AI application that generates delicious recipes based 
 
 ---
 
-## 🚀 How to Run
+ Installation
+Clone the repository:
 
-```bash
-git clone https://github.com/Deergha-7/chefbot.git
+bash
+Copy
+Edit
+git clone https://github.com/yourusername/chefbot.git
 cd chefbot
+Install dependencies:
 
-# (Optional) Create virtual environment
-python -m venv venv
-venv\Scripts\activate   # Windows
-pip install -r requirements.txt
+bash
+Copy
+Edit
+pip install gradio gtts requests Pillow
+Add your Spoonacular API key in the script:
 
-# Run in Jupyter
-jupyter notebook chefbot.ipynb
+python
+Copy
+Edit
+api_key = "your_spoonacular_api_key"
+
+---
+
+▶️ How to Run
+Run the notebook or launch the Gradio app:
+
+bash
+Copy
+Edit
+python app.py
+Or open the .ipynb file in Jupyter and run all cells.
+
+---
+
+.
+
+📸 Demo
+
+
