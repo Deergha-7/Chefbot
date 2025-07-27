@@ -69,4 +69,8 @@ Or open the .ipynb file in Jupyter and run all cells.
 
 📸 Demo
 
-
+![Step 1](readme/User Input.png)
+![Step 2](readme/Instructions.png)
+![Step 3](readme/Dish Image.png)
+![Step 4](readme/Video Image.png)
+![Final Output](readme/Audio & similar Recipes.png)
